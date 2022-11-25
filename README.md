@@ -21,7 +21,7 @@ const DaniTOLETUM = {
 };
 ```
 
-<h3 align="center">💬 Contact me</h3>
+<h3 align="center">📫 Contact me</h3>
 
 <p align="center">
   <a href="mailto:danieldiaz.bio@gmail.com?Subject=Contacto%20desde%20github">
