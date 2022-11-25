@@ -1,7 +1,5 @@
-### Hi I'm Daniel! 👋 :computer:
-
 ![Daniel diaz toledano GitHub image](https://user-images.githubusercontent.com/33659827/203969374-18f8e03f-f873-4757-8a8d-a021da4ece56.png)
-
+### Hi I'm Daniel! 👋 :computer:
 ```javascript
 const DaniTOLETUM = {
   pronouns: "he" | "him" ,
