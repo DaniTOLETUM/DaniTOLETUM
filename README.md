@@ -1,11 +1,22 @@
 ### Hi there 👋 I'm Daniel!
 
-```js
-  var DaniTOLETUM ={
-    Knowledge:
-    Interests:
-    Hobbies:
-  }
+```javascript
+const DaniTOLETUM = {
+  pronouns: "he" | "him" ,
+  code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bulma", "Bootstrap", "SASS"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB"]
+   },
+   currentOccupation: ["Technical Onsite Support; My current possition is something between PO and Senior Web Developer"],
+   challenge: "To be a better professional every day, but also a better person",
+};
 ```
 
 <!--
