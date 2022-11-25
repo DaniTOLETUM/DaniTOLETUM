@@ -1,5 +1,7 @@
 ### Hi I'm Daniel! 👋 :computer:
 
+![Daniel diaz toledano GitHub image](https://user-images.githubusercontent.com/33659827/203969374-18f8e03f-f873-4757-8a8d-a021da4ece56.png)
+
 ```javascript
 const DaniTOLETUM = {
   pronouns: "he" | "him" ,
@@ -18,6 +20,7 @@ const DaniTOLETUM = {
    challenge: "To be a better professional every day, but also a better person",
 };
 ```
+
 
 <!--
 **DaniTOLETUM/DaniTOLETUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
