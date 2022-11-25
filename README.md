@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Daniel!
+### Hi I'm Daniel! 👋 :computer:
 
 ```javascript
 const DaniTOLETUM = {
