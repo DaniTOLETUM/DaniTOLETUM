@@ -40,7 +40,9 @@ const DaniTOLETUM = {
     <img align="center" alt="dani_toletum"  height="28px" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
   </a>
 </p>
-
+<div align="center">
+<img alt="dani_toletum" src="https://visitor-badge.glitch.me/badge?page_id=github.com/DaniTOLETUM&left_color=yellow&right_color=black" />
+</div>
 <!--
 **DaniTOLETUM/DaniTOLETUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
