@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Daniel!
 
-'''js
+```js
   var DaniTOLETUM ={
     Knowledge:
     Interests:
     Hobbies:
   }
-'''
+```
 
 <!--
 **DaniTOLETUM/DaniTOLETUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
